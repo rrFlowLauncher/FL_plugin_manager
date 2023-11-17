@@ -2,7 +2,10 @@ name: "Release-Builder"
 on:
   workflow_dispatch:
   push:
-    branches: [ hello_world_test ]
+    branches: [ main ]
+    paths-ignore:
+      - .github/workflows/*
+      - README.md
 env:
   PYTHON_VER: 3.8
 jobs:
