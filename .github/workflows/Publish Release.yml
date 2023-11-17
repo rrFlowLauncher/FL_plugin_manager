@@ -7,7 +7,6 @@ env:
   PYTHON_VER: 3.8
 jobs:
   deps:
-    if: ${{ github.ref == 'refs/heads/main' }}
     name: "Build"
     runs-on: windows-latest
     steps:
