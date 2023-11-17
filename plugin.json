@@ -6,7 +6,7 @@
     "Author": "Robert Rennert",
     "Version": "0.1.0",
     "Language": "python",
-    "Website": "https://github.com/rrFlowLauncher/FL_plugin_manager/",
+    "Website": "https://github.com/rrFlowLauncher/FL_plugin_template",
     "IcoPath": "Images\\app.png",
     "ExecuteFileName": "main.py"
 }
