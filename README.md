@@ -3,6 +3,10 @@
 # FlowLauncher documentation about Plugins in Python
 https://www.flowlauncher.com/docs/#/py-develop-plugins?id=about-flow39s-python-plugins
 
+# Flox lib
+https://github.com/Garulf/Flox
+
+
 # The `plugin.json` file
 ```json
 {
